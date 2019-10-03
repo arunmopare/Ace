@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "482165645238",
+    "firebase_url": "https://acefirebaseproject-ddce2.firebaseio.com",
+    "project_id": "acefirebaseproject-ddce2",
+    "storage_bucket": "acefirebaseproject-ddce2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482165645238:android:924b9fbefee3a3b667ab17",
+        "android_client_info": {
+          "package_name": "com.example.ace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482165645238-nmnage2rjrivcclifbv7g4ftt4h58fjt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ace",
+            "certificate_hash": "8660b4019357dcbfb255348e1a3f4fefef725e82"
+          }
+        },
+        {
+          "client_id": "482165645238-i48521k77qdnd16jpn0f3tf1ih4rq83b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQD1gUJUObdc8VtdwiFB8PP9tKe-92WXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482165645238-i48521k77qdnd16jpn0f3tf1ih4rq83b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
